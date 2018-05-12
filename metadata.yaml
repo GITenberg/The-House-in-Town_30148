@@ -1,0 +1,35 @@
+_repo: The-House-in-Town_30148
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Warner, Susan
+    aliases:
+    - Warner, Susan Bogert
+    - Wetherell, Elizabeth
+    birthdate: 1819
+    deathdate: 1885
+    gutenberg_agent_id: '4744'
+    url: http://www.gutenberg.org/2009/agents/4744
+    wikipedia: http://en.wikipedia.org/wiki/Susan_Warner
+description: ''
+gutenberg_issued: '2009-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30148'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Aunts -- Juvenile fiction'
+- !lcsh 'Family -- Juvenile fiction'
+- !lcsh 'Cousins -- Juvenile fiction'
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'New York (N.Y.) -- Juvenile fiction'
+title: The House in Town
+url: http://www.gutenberg.org/ebooks/30148
